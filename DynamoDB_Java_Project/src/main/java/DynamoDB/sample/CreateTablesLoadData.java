@@ -31,7 +31,7 @@ public class CreateTablesLoadData {
     static SimpleDateFormat dateFormatter = new SimpleDateFormat(
             "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'");
 
-    static String productCatalogTableName = "ProductCatalogN12";
+    static String productCatalogTableName = "DTCC12ProductCatalogN12";
     static String forumTableName = "ForumN12";
     static String threadTableName = "ThreadN12";
     static String replyTableName = "ReplyN12";
